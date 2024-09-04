@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your React project using Vite and Tailwind CSS:
-
-```markdown
 # User Management System
 
 A user management application built with React, Vite, and Tailwind CSS. This project allows you to manage user data, including adding, editing, and deleting users. It features a responsive design and is styled using Tailwind CSS for a modern and clean interface.
@@ -30,6 +27,12 @@ A user management application built with React, Vite, and Tailwind CSS. This pro
 - **Axios**: A promise-based HTTP client for making API requests.
 
 ## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/user-management-system.git
+
 
 1. **Clone the repository:**
 
